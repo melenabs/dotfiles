@@ -1,0 +1,9 @@
+*
+!.gitignore
+!hypr/
+!hypr/**
+!kitty/
+!kitty/**
+!noctalia/
+!noctalia/**
+*.bak
